@@ -5,17 +5,17 @@
 }
 
 body{
-    background-color: whitesmoke;
+    background-color: rgb(23, 45, 142);
     padding: 90px 0;
 }
 
 .calculator {
     width: 400px;
     margin: 0 auto;
-    background-color: #FBAB18;
+    background-color: gray;
     padding: 20px;
     border-radius: 5px;
-    box-shadow: 0 0 15px black;
+    box-shadow: 0 0 2px gray;
 }
 
 .display{
@@ -50,6 +50,6 @@ body{
 }
 
 button:hover{
-    background-color: #FBAB18;
+    background-color: rgb(23, 45, 142);
     color: black;
 }
